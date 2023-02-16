@@ -12,6 +12,7 @@ function Recentissue(){
   alert('Bitten by Monkey')
 }
 
+
 root.render(
   <StrictMode>
     <App />
