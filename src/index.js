@@ -9,7 +9,7 @@ const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
 
 function Recentissue(){
-  alert('Bitten by Monkey')
+  alert('Jobless 😭')
 }
 
 
